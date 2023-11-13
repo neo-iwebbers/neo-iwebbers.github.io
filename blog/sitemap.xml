@@ -1,102 +1,115 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/blog/__sitemap__/style.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <lastmod>2023-11-13T10:29:31+00:00</lastmod>
+        <lastmod>2023-11-13T15:52:21+00:00</lastmod>
         <loc>http://iwebbers.com/blog</loc>
         <image:image>
-            <image:loc>http://iwebbers.com/_ipx/w_300/blogs-img/blog5.webp</image:loc>
+            <image:loc>http://iwebbers.com/_ipx/w_300/blogs-img/java-banner.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>http://iwebbers.com/_ipx/w_300/blogs-img/html-js-banner.png</image:loc>
         </image:image>
     </url>
     <url>
-        <lastmod>2023-11-13T10:29:31+00:00</lastmod>
+        <lastmod>2023-11-13T15:52:21+00:00</lastmod>
         <loc>http://iwebbers.com/blog/blog</loc>
     </url>
     <url>
-        <lastmod>2023-11-13T10:29:31+00:00</lastmod>
+        <lastmod>2023-11-13T15:52:21+00:00</lastmod>
         <loc>http://iwebbers.com/blog/categories</loc>
     </url>
     <url>
-        <lastmod>2023-11-13T10:29:31+00:00</lastmod>
+        <lastmod>2023-11-13T15:52:21+00:00</lastmod>
         <loc>http://iwebbers.com/blog/contact</loc>
     </url>
     <url>
-        <lastmod>2023-11-13T10:29:31+00:00</lastmod>
+        <lastmod>2023-11-13T15:52:21+00:00</lastmod>
         <loc>http://iwebbers.com/blog/post</loc>
     </url>
     <url>
-        <lastmod>2023-11-13T10:29:31+00:00</lastmod>
-        <loc>http://iwebbers.com/blog/categories/cypress</loc>
+        <lastmod>2023-11-13T15:52:21+00:00</lastmod>
+        <loc>http://iwebbers.com/blog/categories/css</loc>
+        <image:image>
+            <image:loc>http://iwebbers.com/_ipx/w_300/blogs-img/html-js-banner.png</image:loc>
+        </image:image>
     </url>
     <url>
-        <lastmod>2023-11-13T10:29:31+00:00</lastmod>
+        <lastmod>2023-11-13T15:52:21+00:00</lastmod>
         <loc>http://iwebbers.com/blog/categories/docker</loc>
     </url>
     <url>
-        <lastmod>2023-11-13T10:29:31+00:00</lastmod>
+        <lastmod>2023-11-13T15:52:21+00:00</lastmod>
         <loc>http://iwebbers.com/blog/categories/firebase</loc>
     </url>
     <url>
-        <lastmod>2023-11-13T10:29:31+00:00</lastmod>
+        <lastmod>2023-11-13T15:52:21+00:00</lastmod>
         <loc>http://iwebbers.com/blog/categories/git</loc>
     </url>
     <url>
-        <lastmod>2023-11-13T10:29:31+00:00</lastmod>
-        <loc>http://iwebbers.com/blog/categories/javascript</loc>
+        <lastmod>2023-11-13T15:52:21+00:00</lastmod>
+        <loc>http://iwebbers.com/blog/categories/html</loc>
         <image:image>
-            <image:loc>http://iwebbers.com/_ipx/w_300/blogs-img/blog5.webp</image:loc>
+            <image:loc>http://iwebbers.com/_ipx/w_300/blogs-img/html-js-banner.png</image:loc>
         </image:image>
     </url>
     <url>
-        <lastmod>2023-11-13T10:29:31+00:00</lastmod>
+        <lastmod>2023-11-13T15:52:21+00:00</lastmod>
+        <loc>http://iwebbers.com/blog/categories/java</loc>
+        <image:image>
+            <image:loc>http://iwebbers.com/_ipx/w_300/blogs-img/java-banner.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <lastmod>2023-11-13T15:52:21+00:00</lastmod>
+        <loc>http://iwebbers.com/blog/categories/javascript</loc>
+        <image:image>
+            <image:loc>http://iwebbers.com/_ipx/w_300/blogs-img/html-js-banner.png</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <lastmod>2023-11-13T15:52:21+00:00</lastmod>
+        <loc>http://iwebbers.com/blog/categories/jest</loc>
+    </url>
+    <url>
+        <lastmod>2023-11-13T15:52:21+00:00</lastmod>
         <loc>http://iwebbers.com/blog/categories/kubernetes</loc>
     </url>
     <url>
-        <lastmod>2023-11-13T10:29:31+00:00</lastmod>
-        <loc>http://iwebbers.com/blog/categories/namecheap</loc>
+        <lastmod>2023-11-13T15:52:21+00:00</lastmod>
+        <loc>http://iwebbers.com/blog/categories/node</loc>
     </url>
     <url>
-        <lastmod>2023-11-13T10:29:31+00:00</lastmod>
-        <loc>http://iwebbers.com/blog/categories/nuxt</loc>
+        <lastmod>2023-11-13T15:52:21+00:00</lastmod>
+        <loc>http://iwebbers.com/blog/categories/nodejs</loc>
     </url>
     <url>
-        <lastmod>2023-11-13T10:29:31+00:00</lastmod>
-        <loc>http://iwebbers.com/blog/categories/pinia</loc>
+        <lastmod>2023-11-13T15:52:21+00:00</lastmod>
+        <loc>http://iwebbers.com/blog/categories/rest</loc>
     </url>
     <url>
-        <lastmod>2023-11-13T10:29:31+00:00</lastmod>
-        <loc>http://iwebbers.com/blog/categories/supabse</loc>
-    </url>
-    <url>
-        <lastmod>2023-11-13T10:29:31+00:00</lastmod>
+        <lastmod>2023-11-13T15:52:21+00:00</lastmod>
         <loc>http://iwebbers.com/blog/categories/typescript</loc>
     </url>
     <url>
-        <lastmod>2023-11-13T10:29:31+00:00</lastmod>
-        <loc>http://iwebbers.com/blog/categories/vercel</loc>
-    </url>
-    <url>
-        <lastmod>2023-11-13T10:29:31+00:00</lastmod>
+        <lastmod>2023-11-13T15:52:21+00:00</lastmod>
         <loc>http://iwebbers.com/blog/categories/vue</loc>
+    </url>
+    <url>
+        <lastmod>2023-11-13T15:52:21+00:00</lastmod>
+        <loc>http://iwebbers.com/blog/categories/vuejs</loc>
+    </url>
+    <url>
+        <lastmod>2023-11-13T15:30:04+00:00</lastmod>
+        <loc>http://iwebbers.com/blog/post/esplorare-il-mondo-della-programmazione-con-java</loc>
         <image:image>
-            <image:loc>http://iwebbers.com/_ipx/w_300/blogs-img/blog5.webp</image:loc>
+            <image:loc>http://iwebbers.com/_ipx/w_600/blogs-img/java-banner.jpg</image:loc>
         </image:image>
     </url>
     <url>
-        <lastmod>2023-11-13T10:29:31+00:00</lastmod>
-        <loc>http://iwebbers.com/blog/categories/vuex</loc>
-    </url>
-    <url>
-        <lastmod>2023-11-06T20:31:51+00:00</lastmod>
-        <loc>http://iwebbers.com/blog/post/prova</loc>
+        <lastmod>2023-11-13T15:34:31+00:00</lastmod>
+        <loc>http://iwebbers.com/blog/post/svelare-il-potenziale-creativo-con-html-e-javascript</loc>
         <image:image>
-            <image:loc>http://iwebbers.com/_ipx/w_600/blogs-img/blog5.webp</image:loc>
-        </image:image>
-    </url>
-    <url>
-        <lastmod>2023-11-06T20:31:51+00:00</lastmod>
-        <loc>http://iwebbers.com/blog/post/prova2</loc>
-        <image:image>
-            <image:loc>http://iwebbers.com/_ipx/w_600/blogs-img/blog5.webp</image:loc>
+            <image:loc>http://iwebbers.com/_ipx/w_600/blogs-img/html-js-banner.png</image:loc>
         </image:image>
     </url>
 </urlset>
