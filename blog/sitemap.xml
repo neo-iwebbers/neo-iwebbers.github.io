@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/blog/__sitemap__/style.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog</loc>
         <image:image>
             <image:loc>https://iwebbers.com/_ipx/w_300/blogs-img/headless-wordpress-banner.jpg</image:loc>
@@ -17,30 +17,30 @@
         </image:image>
     </url>
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog/blog</loc>
     </url>
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog/categories</loc>
     </url>
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog/contact</loc>
     </url>
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog/post</loc>
     </url>
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog/categories/angular</loc>
         <image:image>
             <image:loc>https://iwebbers.com/_ipx/w_300/blogs-img/angular-typescript.png</image:loc>
         </image:image>
     </url>
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog/categories/css</loc>
         <image:image>
             <image:loc>https://iwebbers.com/_ipx/w_300/blogs-img/html-js-banner.png</image:loc>
@@ -50,15 +50,15 @@
         </image:image>
     </url>
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog/categories/docker</loc>
     </url>
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog/categories/git</loc>
     </url>
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog/categories/html</loc>
         <image:image>
             <image:loc>https://iwebbers.com/_ipx/w_300/blogs-img/html-js-banner.png</image:loc>
@@ -68,14 +68,14 @@
         </image:image>
     </url>
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog/categories/java</loc>
         <image:image>
             <image:loc>https://iwebbers.com/_ipx/w_300/blogs-img/java-banner.jpg</image:loc>
         </image:image>
     </url>
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog/categories/javascript</loc>
         <image:image>
             <image:loc>https://iwebbers.com/_ipx/w_300/blogs-img/html-js-banner.png</image:loc>
@@ -85,42 +85,42 @@
         </image:image>
     </url>
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog/categories/jest</loc>
     </url>
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog/categories/node</loc>
     </url>
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog/categories/nodejs</loc>
     </url>
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog/categories/react</loc>
     </url>
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog/categories/rest</loc>
     </url>
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog/categories/typescript</loc>
         <image:image>
             <image:loc>https://iwebbers.com/_ipx/w_300/blogs-img/angular-typescript.png</image:loc>
         </image:image>
     </url>
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog/categories/vue</loc>
     </url>
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog/categories/vuejs</loc>
     </url>
     <url>
-        <lastmod>2023-12-28T18:49:46+00:00</lastmod>
+        <lastmod>2024-01-12T23:25:07+00:00</lastmod>
         <loc>https://iwebbers.com/blog/categories/wordpress</loc>
         <image:image>
             <image:loc>https://iwebbers.com/_ipx/w_300/blogs-img/headless-wordpress-banner.jpg</image:loc>
